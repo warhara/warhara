@@ -1,0 +1,7 @@
+MY first html file
+create it to test it in my AWS environment 
+I will be deploying AWS Elastic Beanstalk
+i will be deploying AWS CodePipeline 
+i will linking my GitHub repo to AWS CodePipeline 
+aslo i will allow CodePipeline to push the code to Elastic Beanstalk
+
